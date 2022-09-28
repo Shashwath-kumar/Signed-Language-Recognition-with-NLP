@@ -1,0 +1,225 @@
+Adjective:
+
+	absent
+	beautiful
+	all
+	big
+	any
+	another
+	boring
+ 	deaf
+ 	dark
+ 	difficult
+ 	easy
+ 	full
+ 	fat
+ 	fast
+ 	hard
+ 	hot
+ 	less
+ 	low
+ 	loud
+ 	more
+ 	next
+ 	old
+ 	other
+ 	permanent
+ 	safe
+ 	same
+ 	slow
+ 	tall
+ 	short
+
+Adverb:
+	
+	again
+	always
+	often
+	sometimes
+	through
+	up
+	together
+	where
+	why
+	when
+	how
+
+Preposition:
+	
+	about
+	among
+	at
+	around
+	before
+	below
+	down
+	from 
+	near
+	in
+	on
+	out
+	to
+	under
+	with
+	without
+
+Pronoun:
+
+	he
+	her
+	hers
+	him
+	his
+	I
+	it
+	me
+	our
+	those
+	we
+	whose
+	who
+	you
+	your
+	us
+	what
+	them
+	my
+	
+Verb:
+	
+	worry
+	wear
+	wait
+	try
+	touch
+	take
+	surprise
+	stop
+	start
+	spill
+	smile
+	shake
+	show
+	ride
+	remember
+	put
+	push
+	pour
+	press
+	play
+	pay
+	move
+	miss
+	love
+	laugh
+	kick
+	jump
+	keep
+	increase
+	hide
+	hate
+	go
+	give
+	forget
+	feel
+	enjoy
+	like
+	decrease
+	cry
+	hook
+	continue
+	close
+	open
+	call
+	carry
+	catch
+	bend
+	break
+	bath
+	run
+
+Noun:
+	family:
+		brother
+		family
+		freind
+		girkl
+		husvband
+		mother
+		mother in law
+		name
+		sister
+		wife
+		women
+		man
+		daiughter
+		son
+		children
+	dress:
+		cap
+		helment
+		pants
+		umbrella
+		t shirt
+		sweater
+		skirt
+		mask
+		shoes
+		dress
+	time:
+		evening 
+		morning
+		afternoon
+		today
+		yesterday
+		tomorrow
+		night
+		late
+		time
+	personal:
+		bag
+		key
+		phone
+		ticket 
+		money
+		trash can
+	vvegetables:
+		carrot
+		onion
+		potato
+		tomato
+	fruit:
+		apple
+		banana
+		grape
+		guava
+	color:
+		red
+		green
+		blue
+		yellow
+		orange
+		pink
+		brown
+		white
+		black
+	food and health:
+		die
+		disease
+		ill
+		sick
+		wound
+		alive
+		cold
+		cough
+	houses:
+		gate
+		roof
+		bed
+		door
+		ladder
+		window
+		toilet
+
+
+

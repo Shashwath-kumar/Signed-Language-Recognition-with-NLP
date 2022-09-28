@@ -1,2 +1,5 @@
 # Signed-English-Recognition
-Capstone project
+
+### About:
+Capstone project done during undergrad in PES University, Bangalore, India.
+
